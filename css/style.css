@@ -1084,6 +1084,9 @@ footer{
         width: 40px;
         
     }
+    .Product-grid-half .Product-grid-box3 img{
+        width: 60PX;
+    }
     
     
 }
