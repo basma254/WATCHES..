@@ -244,7 +244,9 @@ header .totalQuantity{
     font-size: large;
     font-weight: bold;
 }
-
+.returnCart a{
+    color: #eea558;
+}
 
 
 header a{
@@ -380,7 +382,7 @@ header a:hover{
     }
     header a{
         font-size:8px ;
-        width: 90px;
+        width: 100px;
         
         
     }
